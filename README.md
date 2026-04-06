@@ -1,4 +1,4 @@
-:boom: :clap: :v: :wave: Hello, and welcome to the ***outtaTheAttic*** Github profile page! :clap: :clap: :clap:
+### :boom: :clap: :v: :wave: Hello, and welcome to the ***outtaTheAttic*** Github profile page! :clap: :clap: :clap:
 
 My name is Joe Maselli. 
 
